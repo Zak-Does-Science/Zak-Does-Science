@@ -6,6 +6,7 @@ These days I prototype my own tools with Claude Code. This is where the ones wor
 
 **What's here**
 
+- [spec-scout](https://github.com/Zak-Does-Science/spec-scout): turns a requirements list into a shortlist of compliant models and a priced cost sheet, with a screenshot behind every price for procurement. A standalone rebuild of a Claude add-on I made at work.
 - [talespire-crowd-placer](https://github.com/Zak-Does-Science/talespire-crowd-placer): a C# plugin that drops a crowd of named characters onto a TaleSpire board from a JSON list. Built because nothing else could.
 
 More to come, including small science tools.
