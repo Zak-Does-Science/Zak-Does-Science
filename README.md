@@ -1,6 +1,6 @@
 ### Hi, I'm Zak.
 
-I'm a molecular biologist who builds things. My master's work tracked how skin microbes change after death (930 samples, about 20 million 16S reads, and a machine-learning model of time since placement). Since then I've run GLP studies for medical-device companies, managed a COVID testing site, and founded [Sploosh](https://gosploosh.com), a hardware company.
+I'm a molecular biologist who creates things. My master's work tracked how skin microbes change after death (930 samples, about 20 million 16S reads, and a machine-learning model of time since placement). Since then I've run GLP studies for medical-device companies, managed a COVID testing site, and founded [Sploosh](https://gosploosh.com), a hardware company.
 
 These days I prototype my own tools with Claude Code. This is where the ones worth sharing live.
 
